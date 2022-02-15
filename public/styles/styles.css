@@ -1,0 +1,46 @@
+* {
+    font-family: 'Gideon Roman', cursive;
+}
+
+#about {
+    color: rgb(0, 0, 0);
+}
+
+#gallery{
+    display:flex;
+    background-color: lightgray;
+}
+
+#images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#about-text {
+    margin:20px;
+    padding: 10px;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header {
+    background-color: lightgray;
+}
+
+.main-buttons {
+    margin: 20px;
+    padding: 20px;
+}
+
+.return {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
